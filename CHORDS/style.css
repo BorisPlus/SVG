@@ -1,0 +1,100 @@
+/*** SVG demonstration ***/
+
+/* page */
+svg {
+  background-color: #fff;
+  text-align:center;
+  font-size: 50%;
+   alignment-baseline: middle;
+    text-anchor: middle;
+  }
+
+#lad {
+   fill: #000;
+   stroke: #000;
+   stroke-width: 0.5;
+   fill: transparent;
+   font-size: 90%;
+   }
+
+#fingers {
+   fill: #000;
+   stroke-width: 1;
+  font: #FFF;
+
+  }
+#fingers text {
+   fill: #fff;
+   stroke-width: 1;
+  font-size: 100%;
+  font: #FFF;
+  stroke: 0;
+  stop-color: white;
+  }
+#accord_name text {
+   fill: #000;
+  font: #000;
+  stroke: 3;
+  align: center;
+  }
+/* flower */
+#flower:hover {
+  cursor: crosshair;
+  }
+
+/* gradient */
+#fade-stop-1 {
+  stop-color: blue;
+  }
+
+#fade-stop-2 {
+  stop-color: white;
+  }
+
+/* outer petals */
+#outer-petals {
+  opacity: .75;
+  }
+
+#outer-petals .segment-fill {
+  fill: azure;
+  stroke: lightsteelblue;
+  stroke-width: 1;
+  }
+
+#outer-petals .segment-edge {
+  fill: none;
+  stroke: deepskyblue;
+  stroke-width: 3;
+  }
+
+#outer-petals .segment:hover > .segment-fill {
+  fill: plum;
+  stroke: none;
+  }
+
+#outer-petals .segment:hover > .segment-edge {
+  stroke: slateblue;
+  }
+
+/* inner petals */
+#inner-petals .segment-fill {
+  fill: yellow;
+  stroke: yellowgreen;
+  stroke-width: 1;
+  }
+
+#inner-petals .segment-edge {
+  fill: none;
+  stroke: yellowgreen;
+  stroke-width: 9;
+  }
+
+#inner-petals .segment:hover > .segment-fill {
+  fill: darkseagreen;
+  stroke: none;
+  }
+
+#inner-petals .segment:hover > .segment-edge {
+  stroke: green;
+  }

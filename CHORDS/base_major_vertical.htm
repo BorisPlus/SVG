@@ -1,0 +1,91 @@
+<html>
+<head>
+    <meta charset=utf-8/>
+    <title></title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="800" height="680" viewBox="-37 -37 150 150"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- ЛАДЫ -->
+    <g id='lad'>
+        <line style="stroke:#000;stroke-width:1" x1="0" y1="-2" x2="65" y2="-2"/>
+        <line style="stroke:#000;stroke-width:1" x1="0" y1="0" x2="65" y2="0"/>
+        <line class="lad" x1="0" y1="20" x2="65" y2="20"/>
+        <line x1="0" y1="40" x2="65" y2="40"/>
+        <line x1="0" y1="60" x2="65" y2="60"/>
+        <line x1="0" y1="80" x2="65" y2="80"/>
+    </g>
+    <!-- СТРУНЫ -->
+    <g style="stroke:#000;stroke-width:0.1;fill:transparent;">
+        <line x1="0" y1="0" x2="0" y2="90"/>
+        <line x1="13" y1="0" x2="13" y2="90"/>
+        <line x1="26" y1="0" x2="26" y2="90"/>
+        <line x1="39" y1="0" x2="39" y2="90"/>
+        <line x1="52" y1="0" x2="52" y2="90"/>
+        <line x1="65" y1="0" x2="65" y2="90"/>
+    </g>
+
+    <!-- ПАЛЬЦЫ -->
+    <!-- указательный -->
+    <g id="fingers">
+        <circle cx="52" cy="10" r="5">
+        </circle>
+        <text  x="52" y="15" dy="-2" font-size="50%">
+            1
+        </text>
+    </g>
+     <!--style="fill:#000;stroke:#000;stroke-width:0.5;"-->
+    <!--style="fill:#fff" x="60" y="15" dy="-2"-->
+    <!-- средний -->
+    <g id="fingers">
+        <circle  cx="26" cy="30" r="5">
+        </circle>
+        <text  x="26" y="35" dy="-2">
+            2
+        </text>
+    </g>
+    <!-- безымянный -->
+    <g id="fingers">
+        <circle cx="13" cy="50" r="5">
+        </circle>
+        <text x="13" y="55" dy="-2">
+            3
+        </text>
+    </g>
+
+    <!-- ПОДПИСИ ЛАДОВ -->
+    <!-- I -->
+    <g id="lad_1">
+        <text x="-10" y="15">
+            I
+        </text>
+    </g>
+    <!-- III -->
+    <g id="lad_3">
+        <text x="-10" y="55">
+            III
+        </text>
+    </g>
+    <!-- V -->
+    <!--<g id="lad_5">-->
+        <!--<text x="-10" y="95" font-size="50%">-->
+            <!--V-->
+        <!--</text>-->
+    <!--</g>-->
+
+    <!-- ПОДПИСЬ АККОРДА -->
+    <g id="accord_name">
+        <text x="37" y="-10" font-size="120%">
+            C(maj)
+        </text>
+    </g>
+
+
+</svg>
+</body>
+</html>
+
