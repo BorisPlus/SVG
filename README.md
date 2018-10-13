@@ -8,14 +8,22 @@
 
 ## INSTRUMENTS
 
-![temp](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
+### Guitar
 
-![temp](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
+![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
 
-![temp](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dochig_pondar.svg?sanitize=true)
+### Ukulele
+
+![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
+
+### Dochig pondar
+
+![dochig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dochig_pondar.svg?sanitize=true)
 
 ## ICONS
 
-![temp](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/note.svg?sanitize=true)
+### Music note
+
+![music_note](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/music_note.svg?sanitize=true)
 
 
