@@ -4,7 +4,6 @@
 <svg width="600" height="600" viewBox="-125 -125 250 250" style="border:0px solid #777;"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
-
     <!-- НОТЫ -->
     <g style="stroke:#000;stroke-width:3;fill:transparent;">
         <line x1="-100" y1="-21.5" x2="-100" y2="21.5"/>
