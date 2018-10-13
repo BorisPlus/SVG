@@ -4,7 +4,6 @@
 <svg width="400" height="400" viewBox="-40 -40 80 80"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
-
     <g style="stroke:#000;stroke-width:3;stroke-linejoin:round;stroke-linecap:round;fill:transparent;">
         <line x1="0" y1="-30" x2="0" y2="15"/>
         <path d="M 0 15
@@ -23,7 +22,6 @@
            A 2.5 2.5 0 0 1 2.5 -32.5"/>
         <path d="M 2.5 -32.5
            A 5 10 0 0 1 0 -10"/>
-
     </g>
     <!-- колки -->
     <!--&lt;!&ndash; Линии центра координатной сетки &ndash;&gt;-->
