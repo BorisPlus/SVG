@@ -2,9 +2,9 @@
 
 ## LOGO
 
-![temp](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.svg?sanitize=true)
+![A](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.svg?sanitize=true)
 
-![temp](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A_complex.svg?sanitize=true)
+![A_complex](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A_complex.svg?sanitize=true)
 
 ## INSTRUMENTS
 
