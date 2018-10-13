@@ -26,4 +26,12 @@
 
 ![music_note](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/music_note.svg?sanitize=true)
 
+### Music key
+
+![treble_clef](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/treble_clef.svg?sanitize=true)
+
+### Home
+
+![home](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/home.svg?sanitize=true)
+
 
