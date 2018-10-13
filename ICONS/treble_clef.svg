@@ -5,32 +5,24 @@
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
 
-    <g style="stroke:#000;stroke-width:4;stroke-linejoin:round;stroke-linecap:round;fill:transparent;">
+    <g style="stroke:#000;stroke-width:3;stroke-linejoin:round;stroke-linecap:round;fill:transparent;">
         <line x1="0" y1="-30" x2="0" y2="15"/>
         <path d="M 0 15
-           A 2.5 2.5 0 0 1 -5 15
-           " stroke="black" stroke-width="4"/>
+           A 2.5 2.5 0 0 1 -5 15"/>
         <path d="M 0 -5
-           A 5 5 0 0 0 0 5
-           " stroke="black" stroke-width="4"/>
+           A 5 5 0 0 0 0 5"/>
         <path d="M 0 10
-           A 10 7.5 0 0 0 0 -5
-           " stroke="black" stroke-width="4"/>
+           A 10 7.5 0 0 0 0 -5"/>
         <path d="M 0 -10
-           A 12.5 10 0 0 0 0 10
-           " stroke="black" stroke-width="4"/>
+           A 12.5 10 0 0 0 0 10"/>
         <path d="M 0 -10
-           A 12.5 10 0 0 0 0 10
-           " stroke="black" stroke-width="4"/>
+           A 12.5 10 0 0 0 0 10"/>
         <path d="M 0 -10
-           A 12.5 10 0 0 0 0 10
-           " stroke="black" stroke-width="4"/>
+           A 12.5 10 0 0 0 0 10"/>
         <path d="M 0 -30
-           A 2.5 2.5 0 0 1 2.5 -32.5
-           " stroke="black" stroke-width="4"/>
+           A 2.5 2.5 0 0 1 2.5 -32.5"/>
         <path d="M 2.5 -32.5
-           A 5 10 0 0 1 0 -10
-           " stroke="black" stroke-width="4"/>
+           A 5 10 0 0 1 0 -10"/>
 
     </g>
     <!-- колки -->
