@@ -8,11 +8,12 @@
         <ellipse rx="6.5" ry="4.5" cx="0" cy="0"/>
     </g>
     <g style="stroke:#000;stroke-width:3;fill:#000;">
-        <line x1="6.5" y1="-0" x2="4" y2="-30"/>
+        <line x1="6.5" y1="-0" x2="-4" y2="-30"/>
     </g>
     <g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:#000;">
         <!-- голова -->
-        <line x1="4" y1="-30" x2="15" y2="-30"/>
+        <line x1="-4" y1="-30" x2="5" y2="-30"/>
+        <line x1="-2" y1="-25" x2="5" y2="-25"/>
     </g>
     <!-- колки -->
     <!--&lt;!&ndash; Линии центра координатной сетки &ndash;&gt;-->
