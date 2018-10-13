@@ -26,7 +26,7 @@
 
 ![music_note](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/music_note.svg?sanitize=true)
 
-### Music key
+### Treble clef
 
 ![treble_clef](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/treble_clef.svg?sanitize=true)
 
