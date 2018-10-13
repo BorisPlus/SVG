@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
         "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="600" height="400" viewBox="-50 -40 120 80"
+<svg width="440" height="300" viewBox="-45 -30 110 55"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
-<!--<html>-->
     <!-- ЛОГО -->
     <g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:#fff;fill-opacity:0;fill:transparent;">
         <path d="M 0 25
@@ -14,7 +13,6 @@
 
     <!-- A -->
     <g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:#fff;fill-opacity:0;fill:transparent;stroke-linejoin:round">
-
         <!--<circle cx="10" cy="0" r="25"/>-->
         <path d="
             M 1.81677878439  12.1352549156
@@ -24,21 +22,9 @@
             L -4.2658477444  -4.63525491562
             L  24.2658477444 -4.63525491562" />
 
-        <line x1="-40" y1="0.1352549156" x2="-22" y2="0.1352549156"/>
-        <line x1="42" y1="0.1352549156" x2="60" y2="0.1352549156"/>
-        <!--<line x1="-20" y1="5.1352549156" x2="-5" y2="5.1352549156"/>-->
-        <!--<line x1="-20" y1="10.1352549156" x2="-5" y2="10.1352549156"/>-->
+        <line x1="-40" y1="0.1352549156" x2="-23" y2="0.1352549156"/>
+        <line x1="43" y1="0.1352549156" x2="60" y2="0.1352549156"/>
     </g>
-     <!--&lt;!&ndash; A &ndash;&gt;-->
-    <!--<g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:#fff;fill-opacity:0;fill:transparent;stroke-linejoin:round">-->
-        <!--<path d="-->
-            <!--M -0.81677878439  12.1352549156-->
-            <!--L -0.81677878439  12.1352549156-->
-            <!--L 8 -15-->
-            <!--L 16.81677878439  12.1352549156-->
-            <!--L -6.2658477444  -4.63525491562-->
-            <!--L  22.2658477444 -4.63525491562" stroke="black" stroke-width="3" />-->
-    <!--</g>-->
     <!--&lt;!&ndash; Линии центра координатной сетки &ndash;&gt;-->
     <g style="stroke:#000;stroke-width:0.1;fill:transparent;">
         <line x1="0" y1="-105" x2="0" y2="105"/>
@@ -126,4 +112,3 @@
         <circle cx="0" cy="0" r="100"/>
     </g>
 </svg>
-<!--</html>-->
