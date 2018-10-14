@@ -9,7 +9,6 @@
 ### Guitar
 
 ![guitar.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.raw.svg?sanitize=true)
-
 ![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
 
 ### Ukulele
@@ -19,7 +18,6 @@
 ### Dochig pondar
 
 ![dochig_pondar.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dochig_pondar.raw.svg?sanitize=true)
-
 ![dochig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dochig_pondar.svg?sanitize=true)
 
 ### Question
