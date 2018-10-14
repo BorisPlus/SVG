@@ -18,6 +18,10 @@
 
 ![dochig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dochig_pondar.svg?sanitize=true)
 
+### Question
+
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+
 ## ICONS
 
 ### Music note
