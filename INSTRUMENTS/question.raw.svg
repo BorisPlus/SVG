@@ -15,7 +15,7 @@
         <!-- розетка -->
         <ellipse rx="4.5" ry="4.5" cx="0" cy="20"/>
         <!---->
-        <ellipse rx="1" ry="1" cx="0" cy="45"/>
+        <ellipse rx="1" ry="1" cx="0" cy="45" style="fill:#000"/>
     </g>
 
     <g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:transparent;">
