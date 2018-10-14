@@ -6,10 +6,15 @@
      xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- дека -->
     <g style="fill:#582400;stroke:#000;stroke-width:3;stroke-linecap:round;">
+        <!-- дека -->
+        <path d="M 5 20
+           A 7 6 0 1 0 -5 20
+           A 10 10 1 1 0 5 20
+           "  />
         <!-- дека верх -->
-        <ellipse rx="7" ry="6" cx="0" cy="15"/>
+        <!--<ellipse rx="7" ry="6" cx="0" cy="15"/>-->
         <!-- дека низ -->
-        <ellipse rx="10" ry="10" cx="0" cy="27"/>
+        <!--<ellipse rx="10" ry="10" cx="0" cy="27"/>-->
         <!-- розетка -->
         <ellipse rx="4.5" ry="4.5" cx="0" cy="20" style="fill:#D39C75;"/>
     </g>

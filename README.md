@@ -13,6 +13,7 @@
 
 ### Ukulele
 
+![ukulele.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.raw.svg?sanitize=true)
 ![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
 
 ### Dechig-pondar
@@ -22,6 +23,7 @@
 
 ### Question
 
+![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 # All in one
