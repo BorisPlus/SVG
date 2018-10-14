@@ -1,4 +1,7 @@
-import cairosvg
+try:
+    import cairosvg
+except:
+    print('do: pip[3] install cairosvg')
 
 import os
 
