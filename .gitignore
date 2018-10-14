@@ -1,0 +1,5 @@
+# For PyCharm project
+.idea
+
+# Force ignore for me
+gitignore
