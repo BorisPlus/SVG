@@ -21,7 +21,7 @@
         <!---->
     </g>
 
-    <g style="fill:#582400;stroke:#000;stroke-width:3;stroke-linecap:round;fill:transparent;">
+    <g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:transparent;">
         <!-- розетка -->
         <ellipse rx="4.5" ry="4.5" cx="0" cy="20"/>
     </g>
