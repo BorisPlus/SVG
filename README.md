@@ -8,6 +8,9 @@
 
 ### Guitar
 
+<img href="https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.raw.svg?sanitize=true">
+<img href="https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true">
+
 ![guitar.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.raw.svg?sanitize=true)
 ![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
 
