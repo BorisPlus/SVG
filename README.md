@@ -41,6 +41,8 @@
 ![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
 ![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
 ![dechig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.svg?sanitize=true)
+![balalayka](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.svg?sanitize=true)
+![domra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 ## ICONS
