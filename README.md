@@ -21,7 +21,7 @@
 ![dechig_pondar.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.raw.svg?sanitize=true)
 ![dechig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.svg?sanitize=true)
 
-### Blalalayka
+### Balalayka
 
 ![balalayka.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.raw.svg?sanitize=true)
 ![balalayka](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.svg?sanitize=true)
