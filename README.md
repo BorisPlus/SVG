@@ -26,6 +26,11 @@
 ![balalayka.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.raw.svg?sanitize=true)
 ![balalayka](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.svg?sanitize=true)
 
+### Domra
+
+![domra.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.raw.svg?sanitize=true)
+![domra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
+
 ### Question
 
 ![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
