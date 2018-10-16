@@ -38,8 +38,8 @@
 
 ### Bandjo
 
-![bandjo.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.raw.svg?sanitize=true)
-![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
+![bandjo.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
+![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 ### Question
 
