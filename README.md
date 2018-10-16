@@ -46,6 +46,11 @@
 ![dombra.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.raw.svg?sanitize=true)
 ![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
 
+### Mandolina
+
+![mandolina.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.raw.svg?sanitize=true)
+![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.svg?sanitize=true)
+
 ### Question
 
 ![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
@@ -61,6 +66,7 @@
 ![lutna](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/lutna.svg?sanitize=true)
 ![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
 ![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
+![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 ## ICONS
