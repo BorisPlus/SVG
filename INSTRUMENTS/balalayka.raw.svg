@@ -4,6 +4,12 @@
 <svg width="160" height="320" viewBox="-20 0 40 20"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- COPYRIGHT -->
+    <text text-anchor="middle" style="font: bold 14px Verdana,Courier New; fill:#000;align:center;"
+          x="-13"
+          y="-17">
+        ©
+    </text>
     <!-- дека -->
     <g style="fill:#582400;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;fill:transparent;">
         <!-- дека -->
@@ -12,7 +18,7 @@
            L 15 30
            L -15 30
            z
-           "  />
+           "/>
         <!-- дека верх -->
         <!--<ellipse rx="7" ry="6" cx="0" cy="15"/>-->
         <!-- дека низ -->
@@ -34,7 +40,7 @@
            L -1.3 -13
            L -0.5 -8
            z
-           "  />
+           "/>
     </g>
     <!-- колки -->
     <g style="stroke:#000;stroke-width:1;fill:#000;stroke-linecap:round;">

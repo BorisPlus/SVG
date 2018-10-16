@@ -4,6 +4,11 @@
 <svg width="440" height="300" viewBox="-45 -30 110 55"
      xmlns="http://www.w3.org/2000/svg"
      xmlns:xlink="http://www.w3.org/1999/xlink">
+    <text text-anchor="middle"
+          x="-38"
+          y="-19">
+        ©
+    </text>
     <!-- ЛОГО -->
     <g style="stroke:#000;stroke-width:3;stroke-linecap:round;fill:#fff;fill-opacity:0;fill:transparent;">
         <path d="M 0 25
