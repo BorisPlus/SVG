@@ -41,6 +41,11 @@
 ![bandjo.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.raw.svg?sanitize=true)
 ![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
 
+### Dombra
+
+![dombra.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.raw.svg?sanitize=true)
+![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
+
 ### Question
 
 ![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
