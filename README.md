@@ -38,13 +38,13 @@
 
 ### Bandjo
 
-![bandjo.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
-![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+![bandjo.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.raw.svg?sanitize=true)
+![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
 
 ### Question
 
-![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.raw.svg?sanitize=true)
-![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
+![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 # All in one
 
