@@ -31,10 +31,20 @@
 ![domra.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.raw.svg?sanitize=true)
 ![domra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
 
+### Lutna
+
+![lutna.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/lutna.raw.svg?sanitize=true)
+![lutna](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/lutna.svg?sanitize=true)
+
+### Bandjo
+
+![bandjo.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.raw.svg?sanitize=true)
+![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
+
 ### Question
 
-![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
-![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.raw.svg?sanitize=true)
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
 
 # All in one
 
@@ -43,6 +53,8 @@
 ![dechig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.svg?sanitize=true)
 ![balalayka](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.svg?sanitize=true)
 ![domra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
+![lutna](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/lutna.svg?sanitize=true)
+![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 ## ICONS
