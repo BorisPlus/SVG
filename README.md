@@ -5,6 +5,8 @@
 ## LOGO
 
 ![A](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.svg?sanitize=true)
+![A.small.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.small.raw.svg?sanitize=true)
+![A.small](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.small.svg?sanitize=true)
 
 ## INSTRUMENTS
 
