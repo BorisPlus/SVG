@@ -84,5 +84,6 @@
 ### Home
 
 ![home](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/home.svg?sanitize=true)
+![home.small](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/home.small.svg?sanitize=true)
 
 
