@@ -11,7 +11,7 @@
         ©
     </text>
     <!-- дека -->
-    <g style="fill:#fff;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;fill:transparent;">
+    <g style="fill:#fff;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;fill:transparent;stroke-linejoin:round;">
         <!-- дека -->
         <path d="M 5 20
            A 10 6 0 1 0 -5 20

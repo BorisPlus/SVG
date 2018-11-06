@@ -11,14 +11,14 @@
         ©
     </text>
     <!-- дека -->
-    <g style="fill:#582400;stroke:#000;stroke-width:3;stroke-linecap:round;">
+    <g style="fill:#582400;stroke:#000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
         <!-- дека -->
         <path d="M 5 20
            A 10 6 0 1 0 -5 20
            A 15 12 1 1 0 5 20
            "  />
         <!-- розетка -->
-        <ellipse rx="4.5" ry="4.5" cx="0" cy="20" style="fill:#D39C75;"/>
+        <!--<ellipse rx="4.5" ry="4.5" cx="0" cy="20" style="fill:#D39C75;"/>-->
     </g>
     <!-- гриф -->
     <g style="stroke:#000;stroke-width:3;fill:#000;">
