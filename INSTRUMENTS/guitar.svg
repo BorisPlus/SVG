@@ -18,7 +18,7 @@
            A 15 12 1 1 0 5 20
            "  />
         <!-- розетка -->
-        <!--<ellipse rx="4.5" ry="4.5" cx="0" cy="20" style="fill:#D39C75;"/>-->
+        <ellipse rx="4.5" ry="4.5" cx="0" cy="20" style="fill:#D39C75;"/>
     </g>
     <!-- гриф -->
     <g style="stroke:#000;stroke-width:3;fill:#000;">
