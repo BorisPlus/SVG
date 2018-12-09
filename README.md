@@ -88,4 +88,6 @@
 ![home](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/home.svg?sanitize=true)
 ![home.small](https://raw.githubusercontent.com/BorisPlus/SVG/master/ICONS/home.small.svg?sanitize=true)
 
+## Animation
 
+![yin_yang](https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg?sanitize=true)
