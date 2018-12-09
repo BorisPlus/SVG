@@ -90,7 +90,7 @@
 
 ## Animation
 
-![yin_yang](https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg?sanitize=true)
+![yin_yang](https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg?sanitize=true href="https://github.com/BorisPlus/SVG/blob/master/YIN_YANG/yin_yang.svg")
 
 <p align="center">
 
