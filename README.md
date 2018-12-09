@@ -90,6 +90,8 @@
 
 ## Animation
 
-<img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg" width="350"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg" width="350"/>
+</p>
 
 ![yin_yang](https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg)
