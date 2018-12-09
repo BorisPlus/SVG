@@ -90,14 +90,14 @@
 
 ## Animation
 
-<p align="center">
-
 ![yin_yang](https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.svg?sanitize=true)
+
+<p align="center">
 
 Github block SVG-animation, so look at its GIF-screencast:
 
 <a href="https://github.com/BorisPlus/SVG/blob/master/YIN_YANG/yin_yang.svg">
-  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.gif" width="50"/>
+  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/YIN_YANG/yin_yang.gif" width="150"/>
 </a>
 
 </p>
