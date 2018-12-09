@@ -63,6 +63,7 @@
 # All in one
 
 <p align="center">
+
 ![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
 ![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
 ![dechig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.svg?sanitize=true)
@@ -73,6 +74,7 @@
 ![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
 ![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+
 </p>
 
 ## ICONS
