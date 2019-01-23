@@ -73,6 +73,22 @@
 ![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
+## Just for fun
+
+### Python snakes
+
+![question](/python_snakes/python_snakes.svg?sanitize=true)
+
+
+<a href="https://github.com/BorisPlus/SVG/blob/master/python_snakes/python_snakes.svg">
+
+  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/python_snakes/screencast.gif"/>
+
+</a>
+
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+
+
 ## ICONS
 
 ### Music note
