@@ -7,8 +7,8 @@ import os
 
 root_dir = os.path.dirname(__file__)
 src_dir_name = 'INSTRUMENTS'
-src_dir_name = 'ICONS'
-src_dir_name = 'LOGO'
+# src_dir_name = 'ICONS'
+# src_dir_name = 'LOGO'
 src_dir_path = os.path.join(root_dir, src_dir_name)
 target_dir_name = '__files'
 target_dir_path = os.path.join(root_dir, target_dir_name, src_dir_name)

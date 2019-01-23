@@ -72,6 +72,7 @@
 ![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
 ![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 ## Just for fun
 
@@ -86,7 +87,6 @@
 
 </a>
 
-![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 
 ## ICONS
