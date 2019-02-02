@@ -23,8 +23,6 @@
             <!--A 41 41 0 1 0 20 -30-->
             <!--L 20 -40-->
             <!--" />-->
-        <!--<ellipse cx="0" cy="-40" rx="20" ry="5"  fill="#718fad"/>-->
-
         <circle fill="url(#radialGradient)" cx="0" cy="0" r="45"/>
         <path  fill="#cf4050" d="
             M 0 45
