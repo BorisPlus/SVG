@@ -109,6 +109,7 @@
 <br>
 <img width='100' src="https://avatars2.githubusercontent.com/u/8624251?s=400&v=4"/>
 <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/night_glow/night_glow.svg?sanitize=true"/>
+<img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/night_glow/night_glow_round.svg?sanitize=true"/>
 
 
 ## Animation
