@@ -2,14 +2,21 @@
 
 © Copyright.
 
-## LOGO
-
-![A](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.svg?sanitize=true)
-![A.small.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.small.raw.svg?sanitize=true)
-![A.small](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.small.svg?sanitize=true)
-![PheonixYasniSokol](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/PheonixYasniSokol.small.reach.svg?sanitize=true)
-
 ## INSTRUMENTS
+
+# All in one
+
+![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
+![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
+![dechig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.svg?sanitize=true)
+![balalayka](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.svg?sanitize=true)
+![domra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
+![lutna](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/lutna.svg?sanitize=true)
+![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
+![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
+![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.svg?sanitize=true)
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
 ### Guitar
 
@@ -61,19 +68,12 @@
 ![question.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.raw.svg?sanitize=true)
 ![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
 
-# All in one
+## LOGO
 
-![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
-![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
-![dechig_pondar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dechig_pondar.svg?sanitize=true)
-![balalayka](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/balalayka.svg?sanitize=true)
-![domra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/domra.svg?sanitize=true)
-![lutna](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/lutna.svg?sanitize=true)
-![bandjo](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/bandjo.svg?sanitize=true)
-![dombra](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/dombra.svg?sanitize=true)
-![mandolina](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/mandolina.svg?sanitize=true)
-![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
-![question](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/question.svg?sanitize=true)
+![A](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.svg?sanitize=true)
+![A.small.raw](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.small.raw.svg?sanitize=true)
+![A.small](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/A.small.svg?sanitize=true)
+![PheonixYasniSokol](https://raw.githubusercontent.com/BorisPlus/SVG/master/LOGO/PheonixYasniSokol.small.reach.svg?sanitize=true)
 
 ## Just for fun
 
