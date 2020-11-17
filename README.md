@@ -4,7 +4,7 @@
 
 ## INSTRUMENTS
 
-# All in one
+### All in one
 
 ![guitar](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/guitar.svg?sanitize=true)
 ![ukulele](https://raw.githubusercontent.com/BorisPlus/SVG/master/INSTRUMENTS/ukulele.svg?sanitize=true)
@@ -108,10 +108,8 @@
 ## Night Glow
 
 <br>
-<img width='100' src="https://avatars2.githubusercontent.com/u/8624251?s=400&v=4"/>
 <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/night_glow/night_glow.svg?sanitize=true"/>
 <br>
-<img width='100' src="https://avatars2.githubusercontent.com/u/8624251?s=400&v=4"/>
 <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/night_glow/night_glow_round.svg?sanitize=true"/>
 
 
