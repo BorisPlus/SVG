@@ -145,3 +145,7 @@ Pythoned "Yin Yang":
 </a>
 
 </p>
+
+## Big Brother
+
+![BigBrother](https://raw.githubusercontent.com/BorisPlus/SVG/master/big_brother/big_brother.svg?sanitize=true)
