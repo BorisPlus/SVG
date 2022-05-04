@@ -146,6 +146,26 @@ Pythoned "Yin Yang":
 
 </p>
 
+## Circle Intersect
+
+<p align="center">
+<a href="https://github.com/BorisPlus/SVG/blob/master/CIRCLE_LAYERS/circle_intersect_gray.svg">
+  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_gray.svg?sanitize=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/BorisPlus/SVG/blob/master/CIRCLE_LAYERS/circle_intersect_raw.svg">
+  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_raw.svg?sanitize=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/BorisPlus/SVG/blob/master/CIRCLE_LAYERS/circle_intersect_simple.svg">
+  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_simple.svg?sanitize=true"/>
+</a>
+</p>
+
 ## Big Brother
 
 ![BigBrother](https://raw.githubusercontent.com/BorisPlus/SVG/master/big_brother/big_brother.svg?sanitize=true)
