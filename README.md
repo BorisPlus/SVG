@@ -150,19 +150,19 @@ Pythoned "Yin Yang":
 
 <p align="center">
 <a href="https://github.com/BorisPlus/SVG/blob/master/CIRCLE_LAYERS/circle_intersect_gray.svg">
-  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_gray.svg?sanitize=true"/>
+  <img height="440" src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_gray.svg?sanitize=true"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/BorisPlus/SVG/blob/master/CIRCLE_LAYERS/circle_intersect_raw.svg">
-  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_raw.svg?sanitize=true"/>
+  <img height="440" src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_raw.svg?sanitize=true"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/BorisPlus/SVG/blob/master/CIRCLE_LAYERS/circle_intersect_simple.svg">
-  <img src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_simple.svg?sanitize=true"/>
+  <img height="440" src="https://raw.githubusercontent.com/BorisPlus/SVG/master/CIRCLE_LAYERS/circle_intersect_simple.svg?sanitize=true"/>
 </a>
 </p>
 
