@@ -9,12 +9,12 @@
         <polyline  stroke-linecap="square" points="
                  20,-20 60,-20
                  60,-20 60,-60
-                 20,-60 20,23
+                 20,-60 20,9
                 " fill="none" stroke="black" stroke-width="18" />
         <polyline  stroke-linecap="square" points="
-                 -60,20 60,20
+                 -23,20 60,20
                  60,60 20,60
-                 20,-60 20,20
+                 20,-40
                 " fill="none" stroke="black" stroke-width="18" />
         <polyline  stroke-linecap="square" points="
                  33,-20 60,-20
@@ -24,7 +24,9 @@
         <polyline  stroke-linecap="square" points="
                  -23,20 60,20
                  60,60 20,60
-                 20,33                " fill="none" stroke="white" stroke-width="8" />
+                 20,33
+                " fill="none" stroke="white" stroke-width="8" />
+
 <!--        <path d="M -60 -20 L 60 -20-->
 <!--                 M 60 -20 L 60 -60-->
 <!--                 M 60 -60 L 20 -60-->
