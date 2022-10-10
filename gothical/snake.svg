@@ -9,23 +9,60 @@
         <polyline  stroke-linecap="square" points="
                  20,-20 60,-20
                  60,-20 60,-60
-                 20,-60 20,9
-                " fill="none" stroke="black" stroke-width="18" />
+                 20,-60 20,60
+                 60,60 60,20
+                 -60,20 -60,60
+                 -40,60 -20,60
+                 -20,-60 -60,-60
+                 -60,-20 20,-20
+                " fill="none" stroke="black" stroke-width="25" />
         <polyline  stroke-linecap="square" points="
-                 -23,20 60,20
-                 60,60 20,60
-                 20,-40
-                " fill="none" stroke="black" stroke-width="18" />
-        <polyline  stroke-linecap="square" points="
-                 33,-20 60,-20
+                 20,-20 60,-20
                  60,-20 60,-60
-                 20,-60 20,8
-                " fill="none" stroke="white" stroke-width="8" />
+                 20,-60 20,60
+                 60,60 60,20
+                 -60,20 -60,60
+                 -40,60 -20,60
+                 -20,-60 -60,-60
+                 -60,-20 20,-20
+                " fill="none" stroke="white" stroke-width="15" />
         <polyline  stroke-linecap="square" points="
-                 -23,20 60,20
-                 60,60 20,60
-                 20,33
-                " fill="none" stroke="white" stroke-width="8" />
+                 20,-20 60,-20
+                 60,-20 60,-60
+                 20,-60 20,60
+                 60,60 60,20
+                 -60,20 -60,60
+                 -40,60 -20,60
+                 -20,-60 -60,-60
+                 -60,-20 20,-20
+                " fill="none" stroke="black" stroke-width="5" />
+        <animateTransform attributeName="transform"
+                          attributeType="XML"
+                          type="rotate"
+                          from="240 0 0"
+                          to="-360 0 0"
+                          dur="40s"
+                          repeatCount="indefinite"/>
+<!--        <polyline  stroke-linecap="square" points="-->
+<!--                 -23,20 60,20-->
+<!--                 60,60 20,60-->
+<!--                 20,-40-->
+<!--                " fill="none" stroke="black" stroke-width="18" />-->
+<!--        <polyline  stroke-linecap="square" points="-->
+<!--                 33,-20 60,-20-->
+<!--                 60,-20 60,-60-->
+<!--                 20,-60 20,8-->
+<!--                " fill="none" stroke="white" stroke-width="8" />-->
+<!--        <polyline  stroke-linecap="square" points="-->
+<!--                 -23,20 60,20-->
+<!--                 60,60 20,60-->
+<!--                 20,33-->
+<!--                " fill="none" stroke="white" stroke-width="8" />-->
+<!--        <polyline  stroke-linecap="square" points="-->
+<!--                 -23,20 60,20-->
+<!--                 60,60 20,60-->
+<!--                 20,33-->
+<!--                " fill="none" stroke="white" stroke-width="8" />-->
 
 <!--        <path d="M -60 -20 L 60 -20-->
 <!--                 M 60 -20 L 60 -60-->
