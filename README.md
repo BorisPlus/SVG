@@ -76,6 +76,10 @@
 
 ## Just for fun
 
+### GitHub Forever
+
+![GitHub](/gothical/git.svg)
+
 ### Python snakes
 
 ![question](/python_snakes/python_snakes.svg?sanitize=true)
