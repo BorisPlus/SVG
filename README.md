@@ -78,7 +78,7 @@
 
 ### GitHub Forever
 
-![GitHub](/gothical/git.svg)
+![GitHub](https://github.com/BorisPlus/svg/gothical/git.svg?sanitize=true)
 
 ### Python snakes
 
